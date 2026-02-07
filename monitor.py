@@ -11,8 +11,8 @@ URL = "https://reservation.umai.io/en/block/rembayung"
 CHECK_INTERVAL = 300
 
 # Telegram Configuration (Optional)
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8012222526:AAENnVw6aHAeP2HVxfuFg9mEbSTne3_f6Uo")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "856214397")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "YOUR_CHAT_ID_HERE")
 
 # WhatsApp Configuration (Optional - via CallMeBot API)
 # Get your API key by sending "I allow callmebot to send me messages" to +34 644 66 32 62 on WhatsApp

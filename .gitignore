@@ -1,0 +1,13 @@
+# Python logs
+*.log
+
+# Environment variables / local config
+config.py
+.env
+
+# Tests
+test_simulation.py
+
+# Python cache
+__pycache__/
+*.py[cod]
